@@ -1,6 +1,6 @@
 FROM python:3
 
-LABEL org.opencontainers.image.source https://github.com/cyberiskvision/dls-monitor
+LABEL org.opencontainers.image.source https://github.com/adminlove520
 
 COPY *.py /
 COPY *.json /

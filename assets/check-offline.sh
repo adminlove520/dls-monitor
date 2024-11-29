@@ -2,7 +2,7 @@
 # some hosts in groups.json are marked as inactive when they are assumed perma offline
 # this script checks if they are really offline
 
-curl -sL ransomwhat.telemetry.ltd/groups \
+curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[] | .locations[] | select(.enabled == false) | .fqdn' \
 | awk 'length >= 62' \
 | while read -r fqdn; do

@@ -3,7 +3,7 @@ PROXY="localhost:9050"
 
 while IFS= read -r line; do
     hosts+=("$line")
-done < <(curl -sL ransomwhat.telemetry.ltd/groups \
+done < <(curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[].locations[] | select(.available==true) | .fqdn')
 
 hostcount=${#hosts[@]}

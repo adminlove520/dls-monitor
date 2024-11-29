@@ -61,7 +61,7 @@ def main():
         elif args.url:
             screenshot_single_url(browser, args.url)
         elif args.all:
-            groups = requests.get('https://ransomwhat.telemetry.ltd/groups').json()
+            groups = requests.get('https://dataleak.hopeless99.top//groups').json()
             for group in groups:
                 print('group: {}'.format(group['name']))
                 for webpage in group['locations']:

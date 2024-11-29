@@ -1,7 +1,7 @@
 ##### print online hosts that do not have an enabled parser
 
 ```shell
-curl -sL ransomwhat.telemetry.ltd/groups \
+curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[] 
   | select(
       .parser == false and 
@@ -24,7 +24,7 @@ curl -sL ransomwhat.telemetry.ltd/groups \
 > replace `telemetry.dark:9050` with your own proxy fqdn
 
 ```shell
-curl -sL ransomwhat.telemetry.ltd/groups \
+curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[].locations[] | select(.enabled == false) | .slug' \
 | awk 'length >= 62' | xargs -I {} -P 10 \
 curl --max-time 20 --socks5-hostname multisocks.dark:9050 -o /dev/null \
@@ -34,7 +34,7 @@ curl --max-time 20 --socks5-hostname multisocks.dark:9050 -o /dev/null \
 ##### screenshot all online hosts tagged as lockbit3
 
 ```shell
-curl -sL ransomwhat.telemetry.ltd/groups \
+curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[] | select(.name == "lockbit3") | .locations[] | select(.available == true) | .slug' \
 | python3 assets/screenshotter.py --stdin
 ```

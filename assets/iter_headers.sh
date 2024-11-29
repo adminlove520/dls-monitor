@@ -4,7 +4,7 @@ PROXY="telemetry.dark:9050"
 online_hosts=()
 while IFS= read -r host; do
     online_hosts+=("$host")
-done < <(curl -sL ransomwhat.telemetry.ltd/groups \
+done < <(curl -sL https://dataleak.hopeless99.top//groups \
 | jq -r '.[].locations[] | select(.available==true) | .slug')
 
 if [ ${#online_hosts[@]} -eq 0 ]; then

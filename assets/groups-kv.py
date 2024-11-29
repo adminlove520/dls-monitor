@@ -6,7 +6,7 @@ if os.path.exists('groups.json'):
     with open('groups.json', 'r') as f:
         groups = json.load(f)
 else:
-    groups = requests.get('https://ransomwhat.telemetry.ltd/groups').json()
+    groups = requests.get('https://dataleak.hopeless99.top//groups').json()
 eventdict = []
 for group in groups:
     for loc in group['locations']:

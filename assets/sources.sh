@@ -7,7 +7,7 @@ if [ ! -d tmp ]; then
     mkdir tmp
 fi
 
-master_list=$(curl -sL ransomwhat.telemetry.ltd/groups | jq '.[].locations[].fqdn' -r)
+master_list=$(curl -sL https://dataleak.hopeless99.top//groups | jq '.[].locations[].fqdn' -r)
 
 curl -s https://telemetr.io/en/channels/1232665535-dbforall/posts \
 | awk 'BEGIN{RS=" "}{if($0 ~ /http[s]?:\/\/[a-zA-Z0-9]*\.onion/){print $0}}' \
@@ -83,7 +83,7 @@ curl -s https://godnotaba.ru \
 | grep -oE '[a-z2-7]{56}\.onion' \
 | sort | uniq > assets/tmp/godnotabaru.txt
 
-ransomwatch_allfqdn=$(curl -sL "https://ransomwhat.telemetry.ltd/groups" | jq '.[].locations[].fqdn' -r)
+ransomwatch_allfqdn=$(curl -sL "https://dataleak.hopeless99.top//groups" | jq '.[].locations[].fqdn' -r)
 
 is_excluded() {
     local address="$1"

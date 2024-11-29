@@ -82,7 +82,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🦕 ransomwatch has been running for `' + howoldami() + '` and indexed `' + str(postcount()) + '` posts')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '_all data ' + ' [(groups)](http://ransomwhat.telemetry.ltd/groups) and [(posts)](http://ransomwhat.telemetry.ltd/posts) is available in JSON (updated hourly)_')
+    writeline(uptime_sheet, '_all data ' + ' [(groups)](http://https://dataleak.hopeless99.top//groups) and [(posts)](http://https://dataleak.hopeless99.top//posts) is available in JSON (updated hourly)_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, "> ransomwatch is fully [open source](https://github.com/joshhighet/ransomwatch#ransomwatch--). please consider [sponsoring](https://github.com/sponsors/joshhighet) if you find it useful!")
     

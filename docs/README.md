@@ -16,6 +16,6 @@ _⚙️ there are currently `85` online hosts & `112` custom parsers._
 
 🦕 ransomwatch has been running for `3 years, 2 months and 22 days` and indexed `12696` posts
 
-_all data  [(groups)](http://ransomwhat.telemetry.ltd/groups) and [(posts)](http://ransomwhat.telemetry.ltd/posts) is available in JSON (updated hourly)_
+_all data  [(groups)](http://https://dataleak.hopeless99.top//groups) and [(posts)](http://https://dataleak.hopeless99.top//posts) is available in JSON (updated hourly)_
 
-> ransomwatch is fully [open source](https://github.com/joshhighet/ransomwatch#ransomwatch--). please consider [sponsoring](https://github.com/sponsors/joshhighet) if you find it useful!
+<!-- > ransomwatch is fully [open source](https://github.com/joshhighet/ransomwatch#ransomwatch--). please consider [sponsoring](https://github.com/sponsors/joshhighet) if you find it useful! -->
