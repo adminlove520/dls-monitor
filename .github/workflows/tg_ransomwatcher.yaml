@@ -1,0 +1,34 @@
+name: Run tg_ransomwatcher
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # 每 30 分钟运行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      CHAT_ID: ${{ secrets.CHAT_ID }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install telegram
+
+    - name: Run tg_ransomwatcher.py
+      run: python dls-monitor/assets/tg_ransomwatcher.py
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
