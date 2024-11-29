@@ -32,7 +32,7 @@ def fetch_and_compare_vulnerabilities(url, local_file='vulnerabilities.json'):
     return new_items
 
 class DataFetcher:
-    def __init__(self, url, local_file, chat_id, bot_token):
+    def __init__(self, url, local_file):
         # self.url = url
         # self.local_file = local_file
         # self.indexed_items = set()
