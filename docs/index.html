@@ -29,31 +29,8 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {   
-      alias: {
-          '.*?/awesome':
-            'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
-          '.*?/changelog':
-            'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md',
-          '/.*/_navbar.md': '/_navbar.md',
-          '/es/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1',
-          '/de-de/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
-          '/ru-ru/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1',
-          '/zh-cn/(.*)':
-            'https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@master/$1',
-        },   
+    window.$docsify = {      
       coverpage: false,
-      loadNavbar: true,
-      nameLink: {
-          '/es/': '#/es/',
-          '/de-de/': '#/de-de/',
-          '/ru-ru/': '#/ru-ru/',
-          '/zh-cn/': '#/zh-cn/',
-          '/': '#/',
-        },
       mergeNavbar: true,
       subMaxLevel: 3,
       loadSidebar: true,
@@ -73,14 +50,6 @@
       plugins: [],
       nativeEmoji: true
     }
-    // Set html "lang" attribute based on URL
-    (function () {
-        const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
-
-        if (lang) {
-          document.documentElement.setAttribute('lang', lang[1]);
-        }
-      })();
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
