@@ -1,6 +1,6 @@
 import requests
 import json
-import telegram
+from telegram import Bot  # 导入 Bot 类
 import logging
 from time import sleep
 import os
