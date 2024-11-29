@@ -25,6 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests
+        pip install telegram
         pip install python-telegram-bot
 
     - name: Run tg_ransomwatcher.py
