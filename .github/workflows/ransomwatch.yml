@@ -43,6 +43,9 @@ jobs:
       - name: generate kv groups for analytics
         run: |
           python3 assets/groups-kv.py
+      - name: Run shared utils
+        run: |
+          python3 sharedutils.py
       - name: save changes
         run: |  
           git config user.name github-actions
