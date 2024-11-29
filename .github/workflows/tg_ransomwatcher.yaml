@@ -28,7 +28,7 @@ jobs:
         pip install telegram
 
     - name: Run tg_ransomwatcher.py
-      run: python dls-monitor/assets/tg_ransomwatcher.py
+      run: python ./assets/tg_ransomwatcher.py
       env:
         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         CHAT_ID: ${{ secrets.CHAT_ID }}
