@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`nedamaritime.gr`](https://google.com/search?q=nedamaritime.gr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-12-07 | [`Matlock Security Services`](https://google.com/search?q=Matlock+Security+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-07 | [`CO-VER Power Technology SpA`](https://google.com/search?q=CO-VER+Power+Technology+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`propak`](https://google.com/search?q=propak) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Aiken Electric Cooperative`](https://google.com/search?q=Aiken+Electric+Cooperative) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Groupe Althays`](https://google.com/search?q=Groupe+Althays) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-11-01 | [`AIMS, Inc. - Fuel Business Accounting Software, Jobber Software - Wholesale Petroleum Acco`](https://google.com/search?q=AIMS%2C+Inc.+-+Fuel+Business+Accounting+Software%2C+Jobber+Software+-+Wholesale+Petroleum+Acco) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
