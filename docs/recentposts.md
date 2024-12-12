@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`AFD`](https://google.com/search?q=AFD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-11 | [`Sarah Car Care`](https://google.com/search?q=Sarah+Car+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-11 | [`Compass Communications`](https://google.com/search?q=Compass+Communications) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-02 | [`lumiplan.com\$49.2M\France\652GB\&lt;1% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-02 | [`c`](https://google.com/search?q=c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-02 | [`Hope Valley Recovery`](https://google.com/search?q=Hope+Valley+Recovery) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-01 | [`JS McCarthy Printers`](https://google.com/search?q=JS+McCarthy+Printers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
