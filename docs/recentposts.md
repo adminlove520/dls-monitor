@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-20 | [`PetroVietnam Exploration Production Corporation`](https://google.com/search?q=PetroVietnam+Exploration+Production+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-18 | [`MassDevelopment`](https://google.com/search?q=MassDevelopment) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-18 | [`Marina Family Medical`](https://google.com/search?q=Marina+Family+Medical) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`R Pac Central America S.A. de C.V.`](https://google.com/search?q=R+Pac+Central+America+S.A.+de+C.V.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-27 | [`http://www.gsd200.org`](https://google.com/search?q=http%3A%2F%2Fwww.gsd200.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-27 | [`Contrack Facilities Management`](https://google.com/search?q=Contrack+Facilities+Management) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-11-27 | [`Ventana Micro Systems`](https://google.com/search?q=Ventana+Micro+Systems) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
