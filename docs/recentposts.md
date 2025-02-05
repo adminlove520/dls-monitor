@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-05 | [`NESCTC Security Services`](https://google.com/search?q=NESCTC+Security+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`The Hill Brush`](https://google.com/search?q=The+Hill+Brush) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-05 | [`Mid-State Machine & Fabricating Corp`](https://google.com/search?q=Mid-State+Machine+%26+Fabricating+Corp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-05 | [`Sheridan Nurseries`](https://google.com/search?q=Sheridan+Nurseries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-13 | [`Sunline`](https://google.com/search?q=Sunline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Sigarth`](https://google.com/search?q=Sigarth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-13 | [`SBW`](https://google.com/search?q=SBW) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
