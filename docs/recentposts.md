@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`MICRO MANUFACTRING`](https://google.com/search?q=MICRO+MANUFACTRING) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-02-12 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Neaton Auto Products Manufacturing`](https://google.com/search?q=Neaton+Auto+Products+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Monroe Transportation Services Inc`](https://google.com/search?q=Monroe+Transportation+Services+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`National Atomic Energy Commission`](https://google.com/search?q=National+Atomic+Energy+Commission) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-18 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-18 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-18 | [`Furmano’s`](https://google.com/search?q=Furmano%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
