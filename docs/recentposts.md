@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-25 | [`T Smiles Dental`](https://google.com/search?q=T+Smiles+Dental) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-24 | [`SeaLandAire Technologies`](https://google.com/search?q=SeaLandAire+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-23 | [`acwlaw.com`](https://google.com/search?q=acwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-23 | [`awimc.com\$102.7M\USA\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
