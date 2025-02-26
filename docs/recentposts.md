@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Nationz Technologies Inc.`](https://google.com/search?q=Nationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-26 | [`Kendall Auto Group`](https://google.com/search?q=Kendall+Auto+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-26 | [`Omni United`](https://google.com/search?q=Omni+United) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-12 | [`Unisource Information Services`](https://google.com/search?q=Unisource+Information+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-12 | [`T. Hasegawa USA`](https://google.com/search?q=T.+Hasegawa+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-11 | [`RocSearch`](https://google.com/search?q=RocSearch) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-01-11 | [`Patriarche Office of Architecture`](https://google.com/search?q=Patriarche+Office+of+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
