@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-17 | [`assaabloy.com\$14.4B\Sweden\229GB\&lt;1% DISCLOSED`](https://google.com/search?q=assaabloy.com%5C%2414.4B%5CSweden%5C229GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-17 | [`kyb.com\$600.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=kyb.com%5C%24600.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-16 | [`Courageous Home Care`](https://google.com/search?q=Courageous+Home+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-14 | [`mdm-insurance.com`](https://google.com/search?q=mdm-insurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-09 | [`Leading Edge Specialized Dentistry`](https://google.com/search?q=Leading+Edge+Specialized+Dentistry) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-07 | [`Robertshaw`](https://google.com/search?q=Robertshaw) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-07 | [`cornwelltools.com\$218.7M\USA\4.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=cornwelltools.com%5C%24218.7M%5CUSA%5C4.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
