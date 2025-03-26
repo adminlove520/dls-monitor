@@ -65943,5 +65943,10 @@
         "post_title": "Genie Healthcare Data Leak",
         "group_name": "everest",
         "discovered": "2025-03-26 03:17:06.239576"
+    },
+    {
+        "post_title": "Concord Orthopaedics Data Leak",
+        "group_name": "everest",
+        "discovered": "2025-03-26 04:39:00.861222"
     }
 ]
