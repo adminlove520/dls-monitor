@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-22 | [`Lantronix`](https://google.com/search?q=Lantronix) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Jet Ice`](https://google.com/search?q=Jet+Ice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`Independent Financial Services`](https://google.com/search?q=Independent+Financial+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-22 | [`All Book Covers`](https://google.com/search?q=All+Book+Covers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-02 | [`bestbrands.com\$25.5M\USA\659GB\100% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`newhorizonsbaking.com\$163M\USA\455GB\100% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-01 | [`Newton & Associates, Inc`](https://google.com/search?q=Newton+%26+Associates%2C+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-03-01 | [`curtisint.com\$37.2M\Canada\676GB\100% DISCLOSED`](https://google.com/search?q=curtisint.com%5C%2437.2M%5CCanada%5C676GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
