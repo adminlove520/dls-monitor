@@ -4,7 +4,7 @@ _april 23rd, 2025_
 
 ransomwatch is currently crawling `367` sites belonging to `182` unique groups
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
 🦈 there have been `83` posts within the `month of april`
 
@@ -12,7 +12,7 @@ ransomwatch is currently crawling `367` sites belonging to `182` unique groups
 
 🏚 there have been `450` posts within the `year of 2025`
 
-_⚙️ there are currently `68` online hosts & `112` custom parsers._
+_⚙️ there are currently `59` online hosts & `112` custom parsers._
 
 🦕 ransomwatch has been running for `3 years, 7 months and 17 days` and indexed `13284` posts
 
