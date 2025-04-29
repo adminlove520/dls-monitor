@@ -1,6 +1,6 @@
 
 ## summary
-_april 28th, 2025_
+_april 29th, 2025_
 
 ransomwatch is currently crawling `367` sites belonging to `182` unique groups
 
@@ -14,7 +14,7 @@ ransomwatch is currently crawling `367` sites belonging to `182` unique groups
 
 _⚙️ there are currently `59` online hosts & `112` custom parsers._
 
-🦕 ransomwatch has been running for `3 years, 7 months and 22 days` and indexed `13297` posts
+🦕 ransomwatch has been running for `3 years, 7 months and 23 days` and indexed `13297` posts
 
 _all data  [(groups)](http://https://dataleak.hopeless99.top//groups) and [(posts)](http://https://dataleak.hopeless99.top//posts) is available in JSON (updated hourly)_
 
