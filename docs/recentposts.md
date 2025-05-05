@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-05 | [`OeTTINGER Brauerei`](https://google.com/search?q=OeTTINGER+Brauerei) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-04 | [`hatsin`](https://google.com/search?q=hatsin) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-03 | [`Kalin Hobeltechnik`](https://google.com/search?q=Kalin+Hobeltechnik) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-03 | [`American Eagle Logistics - Press Release`](https://google.com/search?q=American+Eagle+Logistics+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-08 | [`Allworx`](https://google.com/search?q=Allworx) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-07 | [`Island Realty`](https://google.com/search?q=Island+Realty) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-07 | [`Minnesota Orthodontics`](https://google.com/search?q=Minnesota+Orthodontics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-07 | [`associatedasset.com\$288M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=associatedasset.com%5C%24288M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
