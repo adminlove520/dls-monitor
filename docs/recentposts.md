@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-21 | [`Greater Seattle Concrete`](https://google.com/search?q=Greater+Seattle+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-21 | [`CNHI LLC`](https://google.com/search?q=CNHI+LLC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-21 | [`AttainX`](https://google.com/search?q=AttainX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-20 | [`Megacentro`](https://google.com/search?q=Megacentro) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-18 | [`CD`](https://google.com/search?q=CD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-03-18 | [`Gloria Cales`](https://google.com/search?q=Gloria+Cales) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
