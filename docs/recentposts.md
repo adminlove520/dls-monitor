@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-28 | [`Eliel Cycling`](https://google.com/search?q=Eliel+Cycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-28 | [`KDV Label`](https://google.com/search?q=KDV+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-28 | [`Cator Ruma & Associates`](https://google.com/search?q=Cator+Ruma+%26+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-27 | [`Wrap & Send Services`](https://google.com/search?q=Wrap+%26+Send+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-26 | [`Genie Healthcare Data Leak`](https://google.com/search?q=Genie+Healthcare+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-03-25 | [`usCalibration`](https://google.com/search?q=usCalibration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-25 | [`Kimco Steel`](https://google.com/search?q=Kimco+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-25 | [`B&C Industries`](https://google.com/search?q=B%26C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
