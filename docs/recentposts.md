@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-05-29 | [`Mulia Raya`](https://google.com/search?q=Mulia+Raya) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-28 | [`Senior Support Services`](https://google.com/search?q=Senior+Support+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-28 | [`Forrest City School District`](https://google.com/search?q=Forrest+City+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-28 | [`entandallergy.com`](https://google.com/search?q=entandallergy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-03-27 | [`NEW JERSEY CPA`](https://google.com/search?q=NEW+JERSEY+CPA) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
