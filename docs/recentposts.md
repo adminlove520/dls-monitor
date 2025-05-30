@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-30 | [`W.E. Bowers`](https://google.com/search?q=W.E.+Bowers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Anchor Industries`](https://google.com/search?q=Anchor+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`UnigazJordan`](https://google.com/search?q=UnigazJordan) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-31 | [`test1234.com`](https://google.com/search?q=test1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-28 | [`Senior Support Services`](https://google.com/search?q=Senior+Support+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-28 | [`Forrest City School District`](https://google.com/search?q=Forrest+City+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-03-28 | [`entandallergy.com`](https://google.com/search?q=entandallergy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
