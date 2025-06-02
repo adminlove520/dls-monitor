@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-05-30 | [`W.E. Bowers`](https://google.com/search?q=W.E.+Bowers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-30 | [`Tri-Point Solutions`](https://google.com/search?q=Tri-Point+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-31 | [`Saunders and Saunders`](https://google.com/search?q=Saunders+and+Saunders) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-31 | [`Sonrisas Dental Health`](https://google.com/search?q=Sonrisas+Dental+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-31 | [`test1234.com`](https://google.com/search?q=test1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-03-28 | [`Senior Support Services`](https://google.com/search?q=Senior+Support+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
