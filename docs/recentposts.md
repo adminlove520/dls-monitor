@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-26 | [`Merlin Industries`](https://google.com/search?q=Merlin+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Ovalstrapping`](https://google.com/search?q=Ovalstrapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Fisher59`](https://google.com/search?q=Fisher59) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Dairy Farmers of America`](https://google.com/search?q=Dairy+Farmers+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-05 | [`Csm Engineering`](https://google.com/search?q=Csm+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-05 | [`Baltimore Steel Erectors`](https://google.com/search?q=Baltimore+Steel+Erectors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-05 | [`ABITL Finishing`](https://google.com/search?q=ABITL+Finishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
