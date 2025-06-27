@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-27 | [`CGP&H`](https://google.com/search?q=CGP%26H) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-27 | [`Associated Packaging`](https://google.com/search?q=Associated+Packaging) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-26 | [`Merlin Industries`](https://google.com/search?q=Merlin+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-22 | [`Ovalstrapping`](https://google.com/search?q=Ovalstrapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-06 | [`graphiquedefrance.com`](https://google.com/search?q=graphiquedefrance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Swiss Capitals Group`](https://google.com/search?q=Swiss+Capitals+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-05 | [`Csm Engineering`](https://google.com/search?q=Csm+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
