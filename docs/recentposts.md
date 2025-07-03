@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-03 | [`JFC Electric`](https://google.com/search?q=JFC+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [`Biofloral`](https://google.com/search?q=Biofloral) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-03 | [`All Choice Rentals`](https://google.com/search?q=All+Choice+Rentals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-02 | [`Insurance Office of America (US)`](https://google.com/search?q=Insurance+Office+of+America+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-10 | [`Codinter`](https://google.com/search?q=Codinter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-10 | [`Cane Creek Cycling Components`](https://google.com/search?q=Cane+Creek+Cycling+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-10 | [`Bonick Landscaping`](https://google.com/search?q=Bonick+Landscaping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-08 | [`physiciansmedicalbilling.net`](https://google.com/search?q=physiciansmedicalbilling.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
