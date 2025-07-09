@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-09 | [`www.miatech.net`](https://google.com/search?q=www.miatech.net) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2025-07-08 | [`Wood, Patel & Associates`](https://google.com/search?q=Wood%2C+Patel+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-08 | [`Wfmt`](https://google.com/search?q=Wfmt) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-08 | [`Tyree Oil`](https://google.com/search?q=Tyree+Oil) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-12 | [`visionproducts.llc`](https://google.com/search?q=visionproducts.llc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`ksa-archit`](https://google.com/search?q=ksa-archit) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-12 | [`acimfunds.com`](https://google.com/search?q=acimfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-12 | [`Dimension Composite`](https://google.com/search?q=Dimension+Composite) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
