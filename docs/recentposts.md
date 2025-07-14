@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-14 | [`Hulberg & Associates`](https://google.com/search?q=Hulberg+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-11 | [`FormWood Industries`](https://google.com/search?q=FormWood+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-11 | [`EIA Global`](https://google.com/search?q=EIA+Global) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-11 | [`CyberlinkASP`](https://google.com/search?q=CyberlinkASP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-14 | [`Comport Technology Solutions`](https://google.com/search?q=Comport+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Destination Toronto`](https://google.com/search?q=Destination+Toronto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Calmont Group`](https://google.com/search?q=Calmont+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-13 | [`intelliloan.com`](https://google.com/search?q=intelliloan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
