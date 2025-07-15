@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-07-15 | [`Young Adjustment Company`](https://google.com/search?q=Young+Adjustment+Company) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-07-15 | [`Cardinal Services`](https://google.com/search?q=Cardinal+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-07-14 | [`Rockrose Development`](https://google.com/search?q=Rockrose+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-07-14 | [`Hulberg & Associates`](https://google.com/search?q=Hulberg+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-14 | [`Merri-Makers`](https://google.com/search?q=Merri-Makers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`James & Sons Fine Jewelers`](https://google.com/search?q=James+%26+Sons+Fine+Jewelers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-14 | [`Cortez Resources`](https://google.com/search?q=Cortez+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-14 | [`Comport Technology Solutions`](https://google.com/search?q=Comport+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
