@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-09-27 | [`Earthadelic`](https://google.com/search?q=Earthadelic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`ComTec Systems`](https://google.com/search?q=ComTec+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Amelia Overhead Doors`](https://google.com/search?q=Amelia+Overhead+Doors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-27 | [`Atlas Pressed Metals`](https://google.com/search?q=Atlas+Pressed+Metals) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-20 | [`denav`](https://google.com/search?q=denav) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-19 | [`qs`](https://google.com/search?q=qs) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
