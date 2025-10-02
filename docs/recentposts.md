@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-10-02 | [`gelco-s-a.com.br                &lt;`](https://google.com/search?q=gelco-s-a.com.br++++++++++++++++%26lt%3B) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-10-01 | [`The Plainview Volunteer FD`](https://google.com/search?q=The+Plainview+Volunteer+FD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-10-01 | [`https://www.adhunikpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.adhunikpower.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2025-09-30 | [`Komar Industries`](https://google.com/search?q=Komar+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-26 | [`Carrera Chevrolet`](https://google.com/search?q=Carrera+Chevrolet) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-23 | [`Vernon Milling`](https://google.com/search?q=Vernon+Milling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-23 | [`South Atlantic Federal Credit Union`](https://google.com/search?q=South+Atlantic+Federal+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-23 | [`AKJ Energiteknik`](https://google.com/search?q=AKJ+Energiteknik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
