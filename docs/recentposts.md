@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-12-16 | [`Allure Home Creation`](https://google.com/search?q=Allure+Home+Creation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-16 | [`Maypay Farms Inc`](https://google.com/search?q=Maypay+Farms+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-12-15 | [`YOKOSUKA GAKUIN`](https://google.com/search?q=YOKOSUKA+GAKUIN) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-12-15 | [`Diaz Gill Medicina Laboratorial S.A.`](https://google.com/search?q=Diaz+Gill+Medicina+Laboratorial+S.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-09-10 | [`Rising Star Hydraulics`](https://google.com/search?q=Rising+Star+Hydraulics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`Reliable Roofing`](https://google.com/search?q=Reliable+Roofing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-09-10 | [`Mayors Machine Works`](https://google.com/search?q=Mayors+Machine+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-09-10 | [`JIT Energy Services`](https://google.com/search?q=JIT+Energy+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
