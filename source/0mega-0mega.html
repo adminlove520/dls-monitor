@@ -349,7 +349,7 @@ iframe {
             var iframe = document.createElement('iframe');
             iframe.id = 'iframe';
             iframe.frameBorder = '0';
-            iframe.src = "https://yfdnzfa.com/?dn=0mega.cc&pid=9PO755G95&_nozc_=1";
+            iframe.src = "http://yfdpco1.com/sk-park.php?pid=9PO15V947&dn=0mega.cc&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F115.0&requrl=http%3A%2F%2Fww38.0mega.cc%2F%3Fsubid1%3D20260119-1835-5288-b159-c3f6c377cf7b";
             // apply any classes or styles you need
             iframe.style.display = 'block';
             // append into the content container
@@ -369,22 +369,48 @@ iframe {
         Array.from(document.getElementsByTagName('iframe')).forEach((iframe) => iframe.remove());
     };
 </script>
-<script type="text/javascript">
-var ls = function(xhr, token) {
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === XMLHttpRequest.DONE) {
-            if (xhr.status < 200 || xhr.status >= 400) {
-                console.log('There was a problem with the request.');
-            }
-            
-            if (typeof window.onRTBFailure === 'function') { window.onRTBFailure(); }
+<script type='text/javascript'>
+fetch('/rhea?dune=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.tvSl2yVeul9QU3E8I7lY7KC9_9W6PAh_y8WeUOb-dfOt4UPUfe41iw.6rvBbGVWmN7MUdWMxk0TRg.xsYPBS8CyZsPmOV6pciPTc0Ds4yGSM-xCdeEzBptDt0wVNcCi7mzqgNl-uGhp8zHHosyXiFNoN-2TvWwDO5V8ViCLxgBdI7IZto_bej_j-xUnQBlSWH5gWOvlbJg10yBXDv_vyfFYR_bQnXbY-9RWjm1cIAO-TTlSeHQ7CC65oAppp_3CPtW-y2ZHAhyWQBeKnv6Gb97SsxRAzPZq1xF8AMLsTyKy1b3s-CB0EJUPNNzT5o7o7X44r-bjJkNqKR7J9gsETPty8Z5-yueuCtXvfgB1ZXd59a8vRC-haDcPowpVhVeCmQgsfkVbxWTj7Oh.dYoymnE72CNg_jffxr23Ng&t=696ddee2&token=2d5eb5816fbdb21dd1969d2791da2afb9561329a')
+    .then(async response => {
+        if (!response.ok && response.status >= 400) {
+            throw new Error('Network response was not ok: ' + response.statusText);
         }
-    }
-    
-    xhr.open('GET', '/munin/a/l' + 's?t=696dd1e5&token=' + encodeURI(token), true);
-    xhr.send();
-};
-ls(new XMLHttpRequest(), 'ccca5e411cf80c52fb9c9caa3c15d6c6f5d25771');
+        if (response.status === 204) {
+            window.onRTBFailure();
+            return null;
+        }
+        return JSON.parse(await response.text());
+    })
+    .then(data => {
+        if (data && data.length > 0) {
+            var html = '';
+            data.forEach(function (item) {
+                var link = document.createElement('a');
+                link.href = item.location;
+                link.className = 'fallback-term-link';
+            
+                var span = document.createElement('span');
+                span.textContent = item.keyword;  // textContent prevents XSS
+                link.appendChild(span);
+                
+                html += link.outerHTML;
+            });
+            
+            document.getElementById('fallbackTerms').innerHTML = html;
+            document.getElementById('keywords-template').style.display = 'block';
+            
+            if (typeof window.onRTBSuccess === 'function') {
+                window.onRTBSuccess(data);
+            }
+        } else {
+            window.onRTBFailure();
+            console.log(data);
+        }
+    })
+    .catch(error => {
+        console.error(error);
+        window.onRTBFailure();
+    });
 </script>
 
 <div>
@@ -642,7 +668,7 @@ h1 {
         </div>
     </div>
 </div>
-<script async src='https://euob.youstarsbuilding.com/sxp/i/636f8b858f681acb7bfa6f583a96630a.js' data-ch='AdsDeli - iFrame' data-uvid="ccca5e411cf80c52fb9c9caa3c15d6c6f5d25771" class='ct_clicktrue_92098' data-jsonp="onCheqResponse"></script>
+<script async src='https://euob.youstarsbuilding.com/sxp/i/636f8b858f681acb7bfa6f583a96630a.js' data-ch='AdsDeli - iFrame' data-uvid="2d5eb5816fbdb21dd1969d2791da2afb9561329a" class='ct_clicktrue_92098' data-jsonp="onCheqResponse"></script>
 <noscript>
     <iframe src='https://obseu.youstarsbuilding.com/ns/636f8b858f681acb7bfa6f583a96630a.html?ch=AdsDeli%20-%20iFrame' width='0' height='0' style='display:none'></iframe>
 </noscript></body>
