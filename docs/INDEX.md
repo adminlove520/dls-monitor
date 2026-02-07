@@ -302,7 +302,7 @@
 | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) | Darkrace blog | 🔴 | 2023-06-20 | wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion |
 | [shadow](https://ransomwatch.telemetry.ltd/#/profiles?id=shadow) | Shadow | 🔴 | 2023-09-06 | lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion |
 | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |  | 🟢 |  | rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion |
-| [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |  | 🟢 |  | rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion |
+| [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |  | 🔴 | 2026-02-07 | rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion |
 | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) | NoEscape | 🔴 | 2023-12-09 | noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion |
 | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) | NoEscape | 🔴 | 2023-12-09 | noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion |
 | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) | 500: Internal Server Error | 🔴 | 2025-04-07 | cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion |
